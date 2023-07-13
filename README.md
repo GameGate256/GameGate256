@@ -16,6 +16,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?logo=visualstudio">
     <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity">
   </h2>
+  <br>
   <h1>❤️
     <br>
     <br>
