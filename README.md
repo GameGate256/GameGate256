@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Language
+  <h2>[ Language ]
     <br>
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?logo=c">
@@ -7,7 +7,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-gold?logo=python">
   </h2>
   <br>
-  <h2>Tools
+  <h2>[ Tools ]
     <br>
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?logo=visualstudio">
