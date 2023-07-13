@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**GameGate256/GameGate256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>Language
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?logo=c">
+  	<img alt="Static Badge" src="https://img.shields.io/badge/C%23-darkviolet?logo=csharp">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-gold?logo=python">
+  </h2>
+  <br>
+  <h2>Tools
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?logo=visualstudio">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?logo=visualstudio">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity">
+  </h2>
+</div>
