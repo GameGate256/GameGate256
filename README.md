@@ -1,7 +1,7 @@
 <div align="center">
   <h1>✨Hello World!✨</h1>
   <br>
-  <h2>[ Language ]
+  <h2>[ Languages ]
     <br>
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?logo=c">
