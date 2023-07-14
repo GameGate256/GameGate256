@@ -1,5 +1,8 @@
 <div align="center">
   <h1>✨Hello, World!✨</h1>
+</div>
+<t>hi. I'm korean student developer GameGate.</t>
+<div align="center">
   <br>
   <h2>[ Languages ]
     <br>
