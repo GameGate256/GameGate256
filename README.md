@@ -1,7 +1,7 @@
 <div align="center">
   <h1>✨Hello, World!✨</h1>
 </div>
-<t>Hi. I'm korean student developer GameGate.</t>
+<t>Hi. I'm korean student developer GameGate. I'm interested in game and software development.</t>
 <div align="center">
   <br>
   <h2>[ Languages I use ]
