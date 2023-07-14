@@ -3,7 +3,8 @@
 </div>
 <t>Hi. I'm korean student developer GameGate. I'm interested in game and software development.</t>
 <div align="center">
-  <br>
+  <br><br>
+  <h2>Skills</h2>
   <table>
     <tr>
       <td width="2000">
@@ -30,7 +31,7 @@
       </td>
     </tr>
   </table>
-  <br>
+  <br><br>
   <table>
     <tr>
       <td width="2000" align="center">
