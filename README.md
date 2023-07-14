@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨Hello World!✨</h1>
+  <h1>✨Hello, World!✨</h1>
   <br>
   <h2>[ Languages ]
     <br>
