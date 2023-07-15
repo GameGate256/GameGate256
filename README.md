@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>✨Hello, World!✨</h1>
-</div>
+<h1 align="center">✨Hello, World!✨</h1>
 <t>Hi. I'm korean student developer GameGate. I'm interested in game and software development.<br>
 안녕. 저는 한국의 학생 개발자 GameGate입니다. 게임 및 소프트웨어 개발에 관심이 있습니다.</t>
 <br><br>
