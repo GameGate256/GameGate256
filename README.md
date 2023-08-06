@@ -34,8 +34,8 @@
   <h1>❤️リン❤️
     <br>
     <br>
-    <img src="https://drive.google.com/uc?id=1J2NuaLWoaxGFiqs9rYXczJll-bgVKyvB" alt="린1">
-    <img src="https://drive.google.com/uc?id=1mOeqIJ_vtIatf9MbSYWa_TqlTZA8-CIo" alt="린2">
-    <img src="https://drive.google.com/uc?id=1gB9WlIddjzEuJAojBz1EOtpRYI9pJCUK" alt="린3">
+    <img href="https://youtu.be/ooOkRJPpM6Q" src="https://drive.google.com/uc?id=1J2NuaLWoaxGFiqs9rYXczJll-bgVKyvB" alt="린1">
+    <img href="https://youtu.be/ooOkRJPpM6Q" src="https://drive.google.com/uc?id=1mOeqIJ_vtIatf9MbSYWa_TqlTZA8-CIo" alt="린2">
+    <img href="https://youtu.be/ooOkRJPpM6Q" src="https://drive.google.com/uc?id=1gB9WlIddjzEuJAojBz1EOtpRYI9pJCUK" alt="린3">
    </h1>
 </div>
