@@ -31,7 +31,7 @@
 </table>
 <br><hr size="5">
 <div align="center">
-  <h1>❤️リン❤️
+  <h1>❤️
     <br>
     <br>
     <img src="https://drive.google.com/uc?id=1J2NuaLWoaxGFiqs9rYXczJll-bgVKyvB" alt="린1">
