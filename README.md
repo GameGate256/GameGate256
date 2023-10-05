@@ -5,11 +5,11 @@ Hi. I'm korean student developer GameGate. I'm interested in game and software d
 
 ## My Info
 ### 📄 Languages I use
-  - <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?logo=c">
-  - <img alt="Static Badge" src="https://img.shields.io/badge/C%23-darkviolet?logo=csharp">
-  - <img alt="Static Badge" src="https://img.shields.io/badge/Python-gold?logo=python">
+  - C
+  - C#
+  - Pyhon
 
 ### 🛠 Dev Tools I use
-  - <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?logo=visualstudio">
-  - <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?logo=visualstudio">
-  - <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity">
+  - Visual Studio
+  - Visual Studio Code
+  - Unity
