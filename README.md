@@ -4,12 +4,12 @@ Hi. I'm korean student developer GameGate. I'm interested in game and software d
 <br><br>
 
 ## My Info
-### 📄 Languages I use
+### 📄 Languages I mainly use
   - C
   - C#
   - Pyhon
 
-### 🛠 Dev Tools I use
+### 🛠 Dev Tools I mainly use
   - Visual Studio
   - Visual Studio Code
   - Unity
