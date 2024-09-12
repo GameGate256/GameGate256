@@ -3,7 +3,7 @@
   <img src="https://drive.google.com/thumbnail?id=1XAE2lrMw277XLrgKrLEHHSV2hrT2ciYe" width="100" alt="GameGate256's Profile Picture"/>
 </p>
 
-<h1 align="center">Hi there, I'm GameGate256 👋</h1>
+<h1 align="center">Hello, World! I'm GameGate256 👋</h1>
 
 <p align="center">
   <a href="https://github.com/GameGate256?tab=followers">
@@ -20,8 +20,8 @@
 
 - 📚 University Student | 🎓 Major: Artificial Intelligence
 - 🎮 Learning Game Development
-- 🌱 Currently studying: **AI, Game Design, and Development**
-- 🌟 Favorite Languages: **C, C#, Python**
+- 🌱 Currently self-studying: **Game Design, and Development**
+- 🌟 Favorite Languages: **C**
 
 ## 🛠️ Technologies & Tools
 
