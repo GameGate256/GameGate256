@@ -19,7 +19,6 @@
 ## 📝 About Me
 
 - 📚 University Student | 🎓 Major: Artificial Intelligence
-- 🎮 Learning Game Development
 - 🌱 Currently self-studying: **Game Design, and Development**
 - 🌟 Favorite Languages: **C**
 
