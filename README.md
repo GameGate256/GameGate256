@@ -1,15 +1,52 @@
-<h1 align="center">✨Hello, World!✨</h1>
-Hi. I'm korean student developer GameGate. I'm interested in game, AI and software development.<br>
-안녕. 저는 한국의 학생 개발자 GameGate입니다. 게임, 인공지능 및 소프트웨어 개발에 관심이 있습니다.
-<br><br>
+<!-- Header -->
+<p align="center">
+  <img src="https://drive.google.com/thumbnail?id=1XAE2lrMw277XLrgKrLEHHSV2hrT2ciYe" width="100" alt="GameGate256's Profile Picture"/>
+</p>
 
-## My Info
-### 📄 Languages I mainly use
-  - C
-  - C#
-  - Pyhon
+<h1 align="center">Hi there, I'm GameGate256 👋</h1>
 
-### 🛠 Dev Tools I mainly use
-  - Visual Studio
-  - Visual Studio Code
-  - Unity
+<p align="center">
+  <a href="https://github.com/GameGate256?tab=followers">
+    <img src="https://img.shields.io/github/followers/GameGate256?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/GameGate256">
+    <img src="https://komarev.com/ghpvc/?username=GameGate256&color=blueviolet&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
+
+---
+
+## 📝 About Me
+
+- 📚 University Student | 🎓 Major: Artificial Intelligence
+- 🎮 Learning Game Development
+- 🌱 Currently studying: **AI, Game Design, and Development**
+- 🌟 Favorite Languages: **C, C#, Python**
+
+## 🛠️ Technologies & Tools
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GameGate256&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameGate256&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Programming isn't just a job; it's a passion!"</i>
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1YtAHsPGE3SId9rLVfBr2vbctW4jF9lZs" height="300px" alt="Image_miku" />
+</p>
