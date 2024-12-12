@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://drive.google.com/thumbnail?id=1XAE2lrMw277XLrgKrLEHHSV2hrT2ciYe" width="100" alt="GameGate256's Profile Picture"/>
-</p>
 
 <h1 align="center">Hello, World! I'm GameGate256 👋</h1>
 
@@ -44,8 +41,4 @@
 
 <p align="center">
   <i>"Programming isn't just a job; it's a passion!"</i>
-</p>
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1YtAHsPGE3SId9rLVfBr2vbctW4jF9lZs" height="300px" alt="Image_miku" />
 </p>
