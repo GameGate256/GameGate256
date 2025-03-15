@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<h1 align="center">Hello, World! I'm GameGate256 👋</h1>
+<h1 align="center">Hello, World! I'm GameGate256</h1>
 
 <p align="center">
   <a href="https://github.com/GameGate256?tab=followers">
@@ -38,7 +38,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"Programming isn't just a job; it's a passion!"</i>
-</p>
